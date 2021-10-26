@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         //init widgets
         login = findViewById(R.id.login);
         signup =findViewById(R.id.signup);
+
         login.setOnClickListener(view->{
             Intent intent =new Intent(this,MainActivity2.class);
             startActivity(intent);

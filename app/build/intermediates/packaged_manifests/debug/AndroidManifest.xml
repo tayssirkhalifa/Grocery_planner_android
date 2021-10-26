@@ -19,6 +19,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Grocerie_planner" >
         <activity
+            android:name="com.example.grocerie_planner.category"
+            android:exported="true" />
+        <activity
             android:name="com.example.grocerie_planner.signup"
             android:exported="true" />
         <activity
