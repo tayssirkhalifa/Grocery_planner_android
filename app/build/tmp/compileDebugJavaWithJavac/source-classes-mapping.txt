@@ -1,0 +1,26 @@
+com/example/grocerie_planner/BuildConfig.java
+ com.example.grocerie_planner.BuildConfig
+com/example/grocerie_planner/category.java
+ com.example.grocerie_planner.category
+com/example/grocerie_planner/users.java
+ com.example.grocerie_planner.users
+com/example/grocerie_planner/usersDAO.java
+ com.example.grocerie_planner.usersDAO
+com/example/grocerie_planner/MainActivity3.java
+ com.example.grocerie_planner.MainActivity3
+com/example/grocerie_planner/signup.java
+ com.example.grocerie_planner.signup
+ com.example.grocerie_planner.signup$1
+ com.example.grocerie_planner.signup$1$1
+ com.example.grocerie_planner.signup$1$1$1
+com/example/grocerie_planner/MainActivity.java
+ com.example.grocerie_planner.MainActivity
+com/example/grocerie_planner/MainActivity2.java
+ com.example.grocerie_planner.MainActivity2
+ com.example.grocerie_planner.MainActivity2$1
+ com.example.grocerie_planner.MainActivity2$1$1
+ com.example.grocerie_planner.MainActivity2$1$1$1
+com/example/grocerie_planner/AppDataBase.java
+ com.example.grocerie_planner.AppDataBase
+com/example/grocerie_planner/recipes.java
+ com.example.grocerie_planner.recipes
