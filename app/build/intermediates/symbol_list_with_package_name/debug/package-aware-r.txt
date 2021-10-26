@@ -2006,6 +2006,7 @@ id easeOut
 id east
 id edit_query
 id elastic
+id email
 id emailedittext
 id end
 id endToStart
@@ -2151,6 +2152,7 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id password
 id password_toggle
 id passwordedittext
 id path
@@ -2165,6 +2167,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id register
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2292,6 +2295,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id username
 id vertical_only
 id view_offset_helper
 id view_transition

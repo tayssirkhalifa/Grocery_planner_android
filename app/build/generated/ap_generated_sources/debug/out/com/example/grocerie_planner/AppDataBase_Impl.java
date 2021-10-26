@@ -23,6 +23,8 @@ import java.util.Set;
 
 @SuppressWarnings({"unchecked", "deprecation"})
 public final class AppDataBase_Impl extends AppDataBase {
+  private volatile usersDAO _usersDAO;
+
   @Override
   protected SupportSQLiteOpenHelper createOpenHelper(DatabaseConfiguration configuration) {
     final SupportSQLiteOpenHelper.Callback _openCallback = new RoomOpenHelper(configuration, new RoomOpenHelper.Delegate(1) {
@@ -119,6 +121,20 @@ public final class AppDataBase_Impl extends AppDataBase {
       _db.query("PRAGMA wal_checkpoint(FULL)").close();
       if (!_db.inTransaction()) {
         _db.execSQL("VACUUM");
+      }
+    }
+  }
+
+  @Override
+  public usersDAO usersDAO() {
+    if (_usersDAO != null) {
+      return _usersDAO;
+    } else {
+      synchronized(this) {
+        if(_usersDAO == null) {
+          _usersDAO = new usersDAO_Impl(this);
+        }
+        return _usersDAO;
       }
     }
   }

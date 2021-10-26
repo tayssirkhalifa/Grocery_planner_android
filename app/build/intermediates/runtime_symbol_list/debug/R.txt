@@ -2005,6 +2005,7 @@ int id easeOut 0x7f0800a7
 int id east 0x7f0800a8
 int id edit_query 0x7f0800a9
 int id elastic 0x7f0800aa
+int id email 0x7f0801da
 int id emailedittext 0x7f0800ab
 int id end 0x7f0800ac
 int id endToStart 0x7f0800ad
@@ -2150,6 +2151,7 @@ int id parent 0x7f080138
 int id parentPanel 0x7f080139
 int id parentRelative 0x7f08013a
 int id parent_matrix 0x7f08013b
+int id password 0x7f0801db
 int id password_toggle 0x7f08013c
 int id passwordedittext 0x7f08013d
 int id path 0x7f08013e
@@ -2164,6 +2166,7 @@ int id progress_horizontal 0x7f080146
 int id radio 0x7f080147
 int id ratio 0x7f080148
 int id rectangles 0x7f080149
+int id register 0x7f0801dc
 int id reverseSawtooth 0x7f08014a
 int id right 0x7f08014b
 int id rightToLeft 0x7f08014c
@@ -2291,6 +2294,7 @@ int id uniform 0x7f0801c5
 int id unlabeled 0x7f0801c6
 int id up 0x7f0801c7
 int id useLogo 0x7f0801c8
+int id username 0x7f0801dd
 int id vertical_only 0x7f0801c9
 int id view_offset_helper 0x7f0801ca
 int id view_transition 0x7f0801cb
