@@ -1,48 +1,84 @@
+com/example/grocerie_planner/baby.java
+ com.example.grocerie_planner.baby
+com/example/grocerie_planner/Product.java
+ com.example.grocerie_planner.Product
+com/example/grocerie_planner/higieneActivity.java
+ com.example.grocerie_planner.higieneActivity
+ com.example.grocerie_planner.higieneActivity$1
+ com.example.grocerie_planner.higieneActivity$2
+com/example/grocerie_planner/beautyActivity.java
+ com.example.grocerie_planner.beautyActivity
+ com.example.grocerie_planner.beautyActivity$1
+ com.example.grocerie_planner.beautyActivity$2
+com/example/grocerie_planner/food.java
+ com.example.grocerie_planner.food
+ com.example.grocerie_planner.food$1
+ com.example.grocerie_planner.food$2
+com/example/grocerie_planner/AppDataBase.java
+ com.example.grocerie_planner.AppDataBase
+com/example/grocerie_planner/productDAO.java
+ com.example.grocerie_planner.productDAO
+com/example/grocerie_planner/allcategories.java
+ com.example.grocerie_planner.allcategories
+ com.example.grocerie_planner.allcategories$1
+ com.example.grocerie_planner.allcategories$2
+ com.example.grocerie_planner.allcategories$3
+ com.example.grocerie_planner.allcategories$4
+ com.example.grocerie_planner.allcategories$5
+ com.example.grocerie_planner.allcategories$6
+com/example/grocerie_planner/SpiceActivity.java
+ com.example.grocerie_planner.SpiceActivity
+ com.example.grocerie_planner.SpiceActivity$1
+ com.example.grocerie_planner.SpiceActivity$2
+com/example/grocerie_planner/AppDataBaseProduct.java
+ com.example.grocerie_planner.AppDataBaseProduct
+com/example/grocerie_planner/MainActivity.java
+ com.example.grocerie_planner.MainActivity
+com/example/grocerie_planner/higiene.java
+ com.example.grocerie_planner.higiene
+com/example/grocerie_planner/MyList.java
+ com.example.grocerie_planner.MyList
 com/example/grocerie_planner/ListAdapter.java
  com.example.grocerie_planner.ListAdapter
  com.example.grocerie_planner.ListAdapter$1
  com.example.grocerie_planner.ListAdapter$ViewHolder
 com/example/grocerie_planner/BuildConfig.java
  com.example.grocerie_planner.BuildConfig
-com/example/grocerie_planner/category.java
- com.example.grocerie_planner.category
 com/example/grocerie_planner/users.java
  com.example.grocerie_planner.users
-com/example/grocerie_planner/Product.java
- com.example.grocerie_planner.Product
 com/example/grocerie_planner/usersDAO.java
  com.example.grocerie_planner.usersDAO
-com/example/grocerie_planner/food.java
- com.example.grocerie_planner.food
- com.example.grocerie_planner.food$1
- com.example.grocerie_planner.food$2
+com/example/grocerie_planner/beauty.java
+ com.example.grocerie_planner.beauty
 com/example/grocerie_planner/Adapter.java
  com.example.grocerie_planner.Adapter
  com.example.grocerie_planner.Adapter$ViewHolder
  com.example.grocerie_planner.Adapter$ViewHolder$1
-com/example/grocerie_planner/MainActivity2.java
- com.example.grocerie_planner.MainActivity2
- com.example.grocerie_planner.MainActivity2$1
- com.example.grocerie_planner.MainActivity2$1$1
- com.example.grocerie_planner.MainActivity2$1$1$1
-com/example/grocerie_planner/AppDataBase.java
- com.example.grocerie_planner.AppDataBase
+com/example/grocerie_planner/spices.java
+ com.example.grocerie_planner.spices
+com/example/grocerie_planner/diaryActivity.java
+ com.example.grocerie_planner.diaryActivity
+ com.example.grocerie_planner.diaryActivity$1
+ com.example.grocerie_planner.diaryActivity$2
+com/example/grocerie_planner/login.java
+ com.example.grocerie_planner.login
+ com.example.grocerie_planner.login$1
+ com.example.grocerie_planner.login$1$1
+ com.example.grocerie_planner.login$1$1$1
 com/example/grocerie_planner/Products.java
  com.example.grocerie_planner.Products
-com/example/grocerie_planner/productDAO.java
- com.example.grocerie_planner.productDAO
-com/example/grocerie_planner/AppDataBaseProduct.java
- com.example.grocerie_planner.AppDataBaseProduct
 com/example/grocerie_planner/MainActivity3.java
  com.example.grocerie_planner.MainActivity3
+com/example/grocerie_planner/diary.java
+ com.example.grocerie_planner.diary
 com/example/grocerie_planner/signup.java
  com.example.grocerie_planner.signup
  com.example.grocerie_planner.signup$1
  com.example.grocerie_planner.signup$1$1
  com.example.grocerie_planner.signup$1$1$1
-com/example/grocerie_planner/MainActivity.java
- com.example.grocerie_planner.MainActivity
-com/example/grocerie_planner/MyList.java
- com.example.grocerie_planner.MyList
+com/example/grocerie_planner/babyActivity.java
+ com.example.grocerie_planner.babyActivity
+ com.example.grocerie_planner.babyActivity$1
+ com.example.grocerie_planner.babyActivity$2
 com/example/grocerie_planner/recipes.java
  com.example.grocerie_planner.recipes

@@ -17,7 +17,7 @@ public class MainActivity3 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Intent intent =getIntent();
-        username=intent.getStringExtra(MainActivity2.USERNAME_KEY);
+        username=intent.getStringExtra(login.USERNAME_KEY);
 
         setContentView(R.layout.activity_main3);
         //init widgets

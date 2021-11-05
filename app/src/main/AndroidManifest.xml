@@ -10,10 +10,25 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Design.Light.NoActionBar">
         <activity
-            android:name=".food"
+            android:name=".diaryActivity"
             android:exported="true" />
         <activity
-            android:name=".category"
+            android:name=".babyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".beautyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".higieneActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SpiceActivity"
+            android:exported="true" />
+        <activity
+            android:name=".allcategories"
+            android:exported="true" />
+        <activity
+            android:name=".food"
             android:exported="true" />
         <activity
             android:name=".signup"
@@ -22,7 +37,7 @@
             android:name=".MainActivity3"
             android:exported="true" />
         <activity
-            android:name=".MainActivity2"
+            android:name=".login"
             android:exported="true" />
         <activity
             android:name=".MainActivity"

@@ -11,7 +11,7 @@
 9-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:5:5-36:19
+11-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:5:5-51:19
 12        android:allowBackup="true"
 12-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -30,58 +30,88 @@
 20-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:11:9-62
 21        <activity
 21-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:12:9-14:39
-22            android:name="com.example.grocerie_planner.food"
-22-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:13:13-33
+22            android:name="com.example.grocerie_planner.diaryActivity"
+22-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:13:13-42
 23            android:exported="true" />
 23-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:14:13-36
 24        <activity
 24-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:15:9-17:39
-25            android:name="com.example.grocerie_planner.category"
-25-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:16:13-37
+25            android:name="com.example.grocerie_planner.babyActivity"
+25-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:16:13-41
 26            android:exported="true" />
 26-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:17:13-36
 27        <activity
 27-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:18:9-20:39
-28            android:name="com.example.grocerie_planner.signup"
-28-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:19:13-35
+28            android:name="com.example.grocerie_planner.beautyActivity"
+28-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:19:13-43
 29            android:exported="true" />
 29-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:20:13-36
 30        <activity
 30-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:21:9-23:39
-31            android:name="com.example.grocerie_planner.MainActivity3"
-31-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:22:13-42
+31            android:name="com.example.grocerie_planner.higieneActivity"
+31-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:22:13-44
 32            android:exported="true" />
 32-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:23:13-36
 33        <activity
 33-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:24:9-26:39
-34            android:name="com.example.grocerie_planner.MainActivity2"
+34            android:name="com.example.grocerie_planner.SpiceActivity"
 34-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:25:13-42
 35            android:exported="true" />
 35-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:26:13-36
 36        <activity
-36-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:27:9-35:20
-37            android:name="com.example.grocerie_planner.MainActivity"
-37-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:28:13-41
-38            android:exported="true" >
+36-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:27:9-29:39
+37            android:name="com.example.grocerie_planner.allcategories"
+37-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:28:13-42
+38            android:exported="true" />
 38-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:29:13-36
-39            <intent-filter>
-39-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:30:13-34:29
-40                <action android:name="android.intent.action.MAIN" />
-40-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:31:17-69
-40-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:31:25-66
-41
-42                <category android:name="android.intent.category.LAUNCHER" />
-42-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:33:17-77
-42-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:33:27-74
-43            </intent-filter>
-44        </activity>
-45
-46        <service
-46-->[androidx.room:room-runtime:2.2.0] C:\Users\MSI\.gradle\caches\transforms-3\0f746a8c7bca77a22c91738ea042e939\transformed\room-runtime-2.2.0\AndroidManifest.xml:25:9-27:40
-47            android:name="androidx.room.MultiInstanceInvalidationService"
-47-->[androidx.room:room-runtime:2.2.0] C:\Users\MSI\.gradle\caches\transforms-3\0f746a8c7bca77a22c91738ea042e939\transformed\room-runtime-2.2.0\AndroidManifest.xml:26:13-74
-48            android:exported="false" />
-48-->[androidx.room:room-runtime:2.2.0] C:\Users\MSI\.gradle\caches\transforms-3\0f746a8c7bca77a22c91738ea042e939\transformed\room-runtime-2.2.0\AndroidManifest.xml:27:13-37
-49    </application>
-50
-51</manifest>
+39        <activity
+39-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:30:9-32:39
+40            android:name="com.example.grocerie_planner.food"
+40-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:31:13-33
+41            android:exported="true" />
+41-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:32:13-36
+42        <activity
+42-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:33:9-35:39
+43            android:name="com.example.grocerie_planner.signup"
+43-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:34:13-35
+44            android:exported="true" />
+44-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:35:13-36
+45        <activity
+45-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:36:9-38:39
+46            android:name="com.example.grocerie_planner.MainActivity3"
+46-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:37:13-42
+47            android:exported="true" />
+47-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:38:13-36
+48        <activity
+48-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:39:9-41:39
+49            android:name="com.example.grocerie_planner.login"
+49-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:40:13-34
+50            android:exported="true" />
+50-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:41:13-36
+51        <activity
+51-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:42:9-50:20
+52            android:name="com.example.grocerie_planner.MainActivity"
+52-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:43:13-41
+53            android:exported="true" >
+53-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:44:13-36
+54            <intent-filter>
+54-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:45:13-49:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:46:17-69
+55-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:46:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:48:17-77
+57-->C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\AndroidManifest.xml:48:27-74
+58            </intent-filter>
+59        </activity>
+60
+61        <service
+61-->[androidx.room:room-runtime:2.2.0] C:\Users\MSI\.gradle\caches\transforms-3\0f746a8c7bca77a22c91738ea042e939\transformed\room-runtime-2.2.0\AndroidManifest.xml:25:9-27:40
+62            android:name="androidx.room.MultiInstanceInvalidationService"
+62-->[androidx.room:room-runtime:2.2.0] C:\Users\MSI\.gradle\caches\transforms-3\0f746a8c7bca77a22c91738ea042e939\transformed\room-runtime-2.2.0\AndroidManifest.xml:26:13-74
+63            android:exported="false" />
+63-->[androidx.room:room-runtime:2.2.0] C:\Users\MSI\.gradle\caches\transforms-3\0f746a8c7bca77a22c91738ea042e939\transformed\room-runtime-2.2.0\AndroidManifest.xml:27:13-37
+64    </application>
+65
+66</manifest>

@@ -16,6 +16,10 @@
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\star.png"
     },
     {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_diary.xml.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\layout\\activity_diary.xml"
+    },
+    {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_detole.png.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\detole.png"
     },
@@ -24,8 +28,16 @@
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\layout\\activity_main3.xml"
     },
     {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_ginger.png.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\ginger.png"
+    },
+    {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_baby.png.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\baby.png"
     },
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_nearby.png.flat",
@@ -50,6 +62,14 @@
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_hotdog.png.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\hotdog.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_beauty.xml.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\layout\\activity_beauty.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_toiletpaper.png.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\toiletpaper.png"
     },
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_sushi.png.flat",
@@ -88,20 +108,36 @@
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\font2.jpg"
     },
     {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_higiene.xml.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\layout\\activity_higiene.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_beauty.png.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\beauty.png"
+    },
+    {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_search.png.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\search.png"
     },
     {
-        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_diary.png.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\diary.png"
     },
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_remove.png.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\remove.png"
     },
     {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_check.png.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_milkbottle.png.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\milkbottle.png"
     },
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
@@ -110,6 +146,10 @@
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_like.png.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_baby.xml.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\layout\\activity_baby.xml"
     },
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -126,6 +166,10 @@
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_signup.xml.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_nailpolish.png.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\nailpolish.png"
     },
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_noodle.png.flat",
@@ -148,8 +192,16 @@
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\donut.png"
     },
     {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_basket.png.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\basket.png"
+    },
+    {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_food.xml.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\layout\\activity_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_spice.xml.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\layout\\activity_spice.xml"
     },
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.png.flat",
@@ -160,24 +212,24 @@
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\kofa.png"
     },
     {
-        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_category.xml.flat",
-        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\layout\\activity_category.xml"
-    },
-    {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_captur.png.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\captur.png"
-    },
-    {
-        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_lark.jpg.flat",
-        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable-v24\\lark.jpg"
     },
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\layout_items.xml.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\layout\\items.xml"
     },
     {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_lark.jpg.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable-v24\\lark.jpg"
+    },
+    {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_cutlery.png.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\cutlery.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main5.xml.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\layout\\activity_main5.xml"
     },
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_hamburger.png.flat",
@@ -190,6 +242,10 @@
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_cart.png.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\cart.png"
     },
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
@@ -208,8 +264,16 @@
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\food.webp"
     },
     {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_spicy.png.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\drawable\\spicy.png"
+    },
+    {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\font_bold.ttf.flat",
+        "source": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\src\\main\\res\\font\\bold.ttf"
     },
     {
         "merged": "C:\\Users\\MSI\\AndroidStudioProjects\\Grocerie_planner\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_clear_24.xml.flat",
