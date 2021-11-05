@@ -40,21 +40,16 @@ public class signup extends AppCompatActivity {
                                 @Override
                                 public void run() {
                                     Toast.makeText(getApplicationContext(), "user registred", Toast.LENGTH_SHORT).show();
-
                                 }
                             });
                         }
                     }).start();
-
             }else{
                     Toast.makeText(getApplicationContext(), "fill all fields !", Toast.LENGTH_SHORT).show();
                 }
             }
         });
-
-
     }
-
     private Boolean validateInput(users users){
         if( users.getUsername().isEmpty()|| users.getEmail().isEmpty()|| users.getPassword().isEmpty()){
          return false;

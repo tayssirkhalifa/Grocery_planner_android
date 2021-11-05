@@ -54,7 +54,7 @@ new Thread(new Runnable() {
         });
     }else{
 String name= users.getUsername();
-startActivity(new Intent(MainActivity2.this,category.class).putExtra("name",name));
+startActivity(new Intent(MainActivity2.this,food.class).putExtra("name",name));
     }
     }
 }).start();;

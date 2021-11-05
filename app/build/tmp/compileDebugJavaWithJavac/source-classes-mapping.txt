@@ -1,11 +1,38 @@
+com/example/grocerie_planner/ListAdapter.java
+ com.example.grocerie_planner.ListAdapter
+ com.example.grocerie_planner.ListAdapter$1
+ com.example.grocerie_planner.ListAdapter$ViewHolder
 com/example/grocerie_planner/BuildConfig.java
  com.example.grocerie_planner.BuildConfig
 com/example/grocerie_planner/category.java
  com.example.grocerie_planner.category
 com/example/grocerie_planner/users.java
  com.example.grocerie_planner.users
+com/example/grocerie_planner/Product.java
+ com.example.grocerie_planner.Product
 com/example/grocerie_planner/usersDAO.java
  com.example.grocerie_planner.usersDAO
+com/example/grocerie_planner/food.java
+ com.example.grocerie_planner.food
+ com.example.grocerie_planner.food$1
+ com.example.grocerie_planner.food$2
+com/example/grocerie_planner/Adapter.java
+ com.example.grocerie_planner.Adapter
+ com.example.grocerie_planner.Adapter$ViewHolder
+ com.example.grocerie_planner.Adapter$ViewHolder$1
+com/example/grocerie_planner/MainActivity2.java
+ com.example.grocerie_planner.MainActivity2
+ com.example.grocerie_planner.MainActivity2$1
+ com.example.grocerie_planner.MainActivity2$1$1
+ com.example.grocerie_planner.MainActivity2$1$1$1
+com/example/grocerie_planner/AppDataBase.java
+ com.example.grocerie_planner.AppDataBase
+com/example/grocerie_planner/Products.java
+ com.example.grocerie_planner.Products
+com/example/grocerie_planner/productDAO.java
+ com.example.grocerie_planner.productDAO
+com/example/grocerie_planner/AppDataBaseProduct.java
+ com.example.grocerie_planner.AppDataBaseProduct
 com/example/grocerie_planner/MainActivity3.java
  com.example.grocerie_planner.MainActivity3
 com/example/grocerie_planner/signup.java
@@ -15,12 +42,7 @@ com/example/grocerie_planner/signup.java
  com.example.grocerie_planner.signup$1$1$1
 com/example/grocerie_planner/MainActivity.java
  com.example.grocerie_planner.MainActivity
-com/example/grocerie_planner/MainActivity2.java
- com.example.grocerie_planner.MainActivity2
- com.example.grocerie_planner.MainActivity2$1
- com.example.grocerie_planner.MainActivity2$1$1
- com.example.grocerie_planner.MainActivity2$1$1$1
-com/example/grocerie_planner/AppDataBase.java
- com.example.grocerie_planner.AppDataBase
+com/example/grocerie_planner/MyList.java
+ com.example.grocerie_planner.MyList
 com/example/grocerie_planner/recipes.java
  com.example.grocerie_planner.recipes

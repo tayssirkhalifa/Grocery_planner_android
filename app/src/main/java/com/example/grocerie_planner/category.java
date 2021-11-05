@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 public class category extends AppCompatActivity {
 
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
