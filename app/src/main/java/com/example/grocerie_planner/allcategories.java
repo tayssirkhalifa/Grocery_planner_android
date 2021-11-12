@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class allcategories extends AppCompatActivity {
-Button food,spices,higiene,beauty,baby,diary;
+    Button food,spices,higiene,beauty,baby,diary,recipes,addrec;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,6 +19,26 @@ Button food,spices,higiene,beauty,baby,diary;
         beauty=findViewById(R.id.beauty);
         baby=findViewById(R.id.baby);
         diary=findViewById(R.id.Diary);
+        recipes=findViewById(R.id.recipes);
+        addrec=findViewById(R.id.addrec);
+
+        addrec.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent =new Intent(getApplicationContext(),recycleview.class);
+                startActivity(intent);
+
+            }
+        });
+        recipes.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent =new Intent(getApplicationContext(),recipesActivity.class);
+                startActivity(intent);
+
+            }
+        });
+
         food.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

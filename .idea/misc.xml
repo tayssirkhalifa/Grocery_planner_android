@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_addrecipe.xml" value="0.2033514492753623" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_baby.xml" value="0.21981981981981982" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_beauty.xml" value="0.21981981981981982" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_category.xml" value="0.2" />
@@ -10,16 +11,26 @@
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_food.xml" value="0.136" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_higiene.xml" value="0.21981981981981982" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_itemlist.xml" value="0.21981981981981982" />
-        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_main2.xml" value="0.2" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_main3.xml" value="0.2" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_main4.xml" value="0.264" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_main5.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_paellarecipe.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_recipes.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_recycleview.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_saladerecipe.xml" value="0.14945652173913043" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_signup.xml" value="0.176" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_souperecipe.xml" value="0.264" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/activity_spice.xml" value="0.1" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/cellul.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/cellule.xml" value="0.16893115942028986" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/fragment_my_list.xml" value="0.21981981981981982" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/fragment_products.xml" value="0.21981981981981982" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/items.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/receipt_adapter.xml" value="0.13153153153153152" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/recycler.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Grocerie_planner/app/src/main/res/layout/recyclerview.xml" value="0.16893115942028986" />
       </map>
     </option>
   </component>

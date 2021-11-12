@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 public class baby extends Fragment {
     RecyclerView recyclerView;
-    com.example.grocerie_planner.Adapter adapter;
+    com.example.grocerie_planner.BabyAdapter adapter;
     ArrayList<Product> items;
 
 
@@ -32,21 +32,17 @@ public class baby extends Fragment {
 
         items = new ArrayList<>();
 
-        items.add(new Product(1,"baby bottle",R.drawable.bibron));
-        items.add(new Product(2,"baby bottle",R.drawable.bibron));
-        items.add(new Product(3,"baby bottle",R.drawable.bibron));
-        items.add(new Product(4,"baby bottleh",R.drawable.bibron));
-        items.add(new Product(5,"baby bottleh",R.drawable.bibron));
-        items.add(new Product(6,"baby bottle",R.drawable.bibron));
-        items.add(new Product(7,"baby bottle",R.drawable.bibron));
-        items.add(new Product(8,"baby bottle",R.drawable.bibron));
-        items.add(new Product(9,"baby bottle",R.drawable.bibron));
-        items.add(new Product(10,"baby bottle",R.drawable.bibron));
+        items.add(new Product(10,"bottle",R.drawable.bibron));
+        items.add(new Product(11,"pacifier",R.drawable.pacifier));
+        items.add(new Product(12,"storagebox",R.drawable.storagebox));
+        items.add(new Product(13,"construction",R.drawable.construction));
+        items.add(new Product(14,"piano",R.drawable.piano));
+
 
 
         recyclerView = view.findViewById(R.id.RV);
         recyclerView.setLayoutManager(new LinearLayoutManager(view.getContext()));
-        adapter = new Adapter(items);
+        adapter = new BabyAdapter(items);
         recyclerView.setAdapter(adapter);
 
         return view;

@@ -39,12 +39,10 @@ public class Products extends Fragment {
         items.add(new Product(2,"Pizza",R.drawable.pizza));
         items.add(new Product(3,"HotDog",R.drawable.hotdog));
         items.add(new Product(4,"Noodels",R.drawable.noodle));
-        items.add(new Product(5,"Noodels",R.drawable.salad));
-        items.add(new Product(6,"Noodels",R.drawable.salad));
-        items.add(new Product(7,"Noodels",R.drawable.salad));
-        items.add(new Product(8,"Noodels",R.drawable.rice));
-        items.add(new Product(9,"Fries",R.drawable.fries));
-        items.add(new Product(10,"Drinks",R.drawable.drink));
+        items.add(new Product(5,"salad",R.drawable.salad));
+        items.add(new Product(6,"rice",R.drawable.rice));
+        items.add(new Product(7,"Fries",R.drawable.fries));
+        items.add(new Product(8,"Drinks",R.drawable.drink));
 
 
         recyclerView = view.findViewById(R.id.RV);

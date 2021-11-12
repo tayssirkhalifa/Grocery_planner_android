@@ -84,11 +84,20 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
                         img = 1;
                     } else if (textView.getText().toString().equals("Pizza")) {
                         img = 2;
-                    } else if (textView.getText().toString().equals("ccc")) {
+                    } else if (textView.getText().toString().equals("HotDog")) {
                         img = 3;
-                    } else {
-                        img = 4;
-                    }
+                    } else if (textView.getText().toString().equals("Noodels")) {
+                        img = 4;}
+                    else if (textView.getText().toString().equals("salad")) {
+                        img = 5;}
+                    else if (textView.getText().toString().equals("rice")) {
+                        img = 6;}
+                    else if (textView.getText().toString().equals("Fries")) {
+                        img = 7;}
+                    else if (textView.getText().toString().equals("Drinks")) {
+                        img = 8;}
+
+                    System.out.println(img);
 
                     Product tmpUser = new Product(textView.getText().toString(), img);
 

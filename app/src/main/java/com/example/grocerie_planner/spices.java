@@ -36,16 +36,10 @@ public class spices extends Fragment {
 
         items = new ArrayList<>();
 
-        items.add(new Product(1,"Ginger",R.drawable.ginger));
-        items.add(new Product(2,"Ginger",R.drawable.ginger));
-        items.add(new Product(3,"Ginger",R.drawable.ginger));
-        items.add(new Product(4,"Ginger",R.drawable.ginger));
-        items.add(new Product(5,"Ginger",R.drawable.ginger));
-        items.add(new Product(6,"Ginger",R.drawable.ginger));
-        items.add(new Product(7,"Ginger",R.drawable.ginger));
-        items.add(new Product(8,"Ginger",R.drawable.ginger));
-        items.add(new Product(9,"Ginger",R.drawable.ginger));
-        items.add(new Product(10,"Ginger",R.drawable.ginger));
+        items.add(new Product(50,"Ginger",R.drawable.ginger));
+        items.add(new Product(60,"curcum",R.drawable.curcum));
+        items.add(new Product(70,"yan",R.drawable.yan));
+        items.add(new Product(80,"pepper",R.drawable.pepper));
 
 
         recyclerView = view.findViewById(R.id.RV);

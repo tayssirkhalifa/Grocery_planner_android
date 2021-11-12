@@ -2,13 +2,58 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.grocerie_planner">
 
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
     <application
         android:allowBackup="true"
+        android:hardwareAccelerated="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:largeHeap="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Design.Light.NoActionBar">
+        <activity
+            android:name=".saladerecipeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".paellarecipeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".recycleview"
+            android:exported="true" />
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/recycler" />
+
+        <activity
+            android:name=".AddrecipeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".souperecipeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".recipesActivity"
+            android:exported="true" />
         <activity
             android:name=".diaryActivity"
             android:exported="true" />

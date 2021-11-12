@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 public class higiene  extends Fragment {
     RecyclerView recyclerView;
-    com.example.grocerie_planner.Adapter adapter;
+    com.example.grocerie_planner.HigieneAdapter adapter;
     ArrayList<Product> items;
 
 
@@ -33,21 +33,16 @@ public class higiene  extends Fragment {
 
         items = new ArrayList<>();
 
-        items.add(new Product(1,"toiletpaper",R.drawable.toiletpaper));
-        items.add(new Product(2,"toiletpaper",R.drawable.toiletpaper));
-        items.add(new Product(3,"toiletpaper",R.drawable.toiletpaper));
-        items.add(new Product(4,"toiletpaper",R.drawable.toiletpaper));
-        items.add(new Product(5,"toiletpaper",R.drawable.toiletpaper));
-        items.add(new Product(6,"toiletpaper",R.drawable.toiletpaper));
-        items.add(new Product(7,"toiletpaper",R.drawable.toiletpaper));
-        items.add(new Product(8,"toiletpaper",R.drawable.toiletpaper));
-        items.add(new Product(9,"toiletpaper",R.drawable.toiletpaper));
-        items.add(new Product(10,"toiletpaper",R.drawable.toiletpaper));
+        items.add(new Product(40,"toiletpaper",R.drawable.toiletpaper));
+        items.add(new Product(41,"handwash",R.drawable.handwash));
+        items.add(new Product(42,"cotton",R.drawable.cotton));
+        items.add(new Product(43,"spray",R.drawable.spray));
+
 
 
         recyclerView = view.findViewById(R.id.RV);
         recyclerView.setLayoutManager(new LinearLayoutManager(view.getContext()));
-        adapter = new Adapter(items);
+        adapter = new HigieneAdapter(items);
         recyclerView.setAdapter(adapter);
 
         return view;

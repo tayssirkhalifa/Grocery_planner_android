@@ -16,6 +16,12 @@ com/example/grocerie_planner/food.java
  com.example.grocerie_planner.food$2
 com/example/grocerie_planner/AppDataBase.java
  com.example.grocerie_planner.AppDataBase
+com/example/grocerie_planner/recipieDataBase.java
+ com.example.grocerie_planner.recipieDataBase
+com/example/grocerie_planner/BabyAdapter.java
+ com.example.grocerie_planner.BabyAdapter
+ com.example.grocerie_planner.BabyAdapter$ViewHolder
+ com.example.grocerie_planner.BabyAdapter$ViewHolder$1
 com/example/grocerie_planner/productDAO.java
  com.example.grocerie_planner.productDAO
 com/example/grocerie_planner/allcategories.java
@@ -26,18 +32,36 @@ com/example/grocerie_planner/allcategories.java
  com.example.grocerie_planner.allcategories$4
  com.example.grocerie_planner.allcategories$5
  com.example.grocerie_planner.allcategories$6
+ com.example.grocerie_planner.allcategories$7
+ com.example.grocerie_planner.allcategories$8
 com/example/grocerie_planner/SpiceActivity.java
  com.example.grocerie_planner.SpiceActivity
  com.example.grocerie_planner.SpiceActivity$1
  com.example.grocerie_planner.SpiceActivity$2
+com/example/grocerie_planner/recipieDAO.java
+ com.example.grocerie_planner.recipieDAO
 com/example/grocerie_planner/AppDataBaseProduct.java
  com.example.grocerie_planner.AppDataBaseProduct
+com/example/grocerie_planner/babe.java
+ com.example.grocerie_planner.babe
+com/example/grocerie_planner/HigieneAdapter.java
+ com.example.grocerie_planner.HigieneAdapter
+ com.example.grocerie_planner.HigieneAdapter$ViewHolder
+ com.example.grocerie_planner.HigieneAdapter$ViewHolder$1
 com/example/grocerie_planner/MainActivity.java
  com.example.grocerie_planner.MainActivity
 com/example/grocerie_planner/higiene.java
  com.example.grocerie_planner.higiene
 com/example/grocerie_planner/MyList.java
  com.example.grocerie_planner.MyList
+com/example/grocerie_planner/paellarecipeActivity.java
+ com.example.grocerie_planner.paellarecipeActivity
+com/example/grocerie_planner/recipesActivity.java
+ com.example.grocerie_planner.recipesActivity
+ com.example.grocerie_planner.recipesActivity$1
+ com.example.grocerie_planner.recipesActivity$2
+ com.example.grocerie_planner.recipesActivity$3
+ com.example.grocerie_planner.recipesActivity$4
 com/example/grocerie_planner/ListAdapter.java
  com.example.grocerie_planner.ListAdapter
  com.example.grocerie_planner.ListAdapter$1
@@ -46,8 +70,18 @@ com/example/grocerie_planner/BuildConfig.java
  com.example.grocerie_planner.BuildConfig
 com/example/grocerie_planner/users.java
  com.example.grocerie_planner.users
+com/example/grocerie_planner/dairyAdapter.java
+ com.example.grocerie_planner.dairyAdapter
+ com.example.grocerie_planner.dairyAdapter$ViewHolder
+ com.example.grocerie_planner.dairyAdapter$ViewHolder$1
 com/example/grocerie_planner/usersDAO.java
  com.example.grocerie_planner.usersDAO
+com/example/grocerie_planner/AddrecipeActivity.java
+ com.example.grocerie_planner.AddrecipeActivity
+ com.example.grocerie_planner.AddrecipeActivity$1
+ com.example.grocerie_planner.AddrecipeActivity$2
+ com.example.grocerie_planner.AddrecipeActivity$2$1
+ com.example.grocerie_planner.AddrecipeActivity$2$1$1
 com/example/grocerie_planner/beauty.java
  com.example.grocerie_planner.beauty
 com/example/grocerie_planner/Adapter.java
@@ -67,6 +101,16 @@ com/example/grocerie_planner/login.java
  com.example.grocerie_planner.login$1$1$1
 com/example/grocerie_planner/Products.java
  com.example.grocerie_planner.Products
+com/example/grocerie_planner/beaytyAdapter.java
+ com.example.grocerie_planner.beaytyAdapter
+ com.example.grocerie_planner.beaytyAdapter$ViewHolder
+ com.example.grocerie_planner.beaytyAdapter$ViewHolder$1
+com/example/grocerie_planner/adapter/recipieListAdapter.java
+ com.example.grocerie_planner.adapter.recipieListAdapter
+ com.example.grocerie_planner.adapter.recipieListAdapter$DeleteItemClicklistner
+ com.example.grocerie_planner.adapter.recipieListAdapter$ViewHolder
+com/example/grocerie_planner/recipie.java
+ com.example.grocerie_planner.recipie
 com/example/grocerie_planner/MainActivity3.java
  com.example.grocerie_planner.MainActivity3
 com/example/grocerie_planner/diary.java
@@ -76,9 +120,13 @@ com/example/grocerie_planner/signup.java
  com.example.grocerie_planner.signup$1
  com.example.grocerie_planner.signup$1$1
  com.example.grocerie_planner.signup$1$1$1
+com/example/grocerie_planner/souperecipeActivity.java
+ com.example.grocerie_planner.souperecipeActivity
+com/example/grocerie_planner/saladerecipeActivity.java
+ com.example.grocerie_planner.saladerecipeActivity
 com/example/grocerie_planner/babyActivity.java
  com.example.grocerie_planner.babyActivity
  com.example.grocerie_planner.babyActivity$1
  com.example.grocerie_planner.babyActivity$2
-com/example/grocerie_planner/recipes.java
- com.example.grocerie_planner.recipes
+com/example/grocerie_planner/recycleview.java
+ com.example.grocerie_planner.recycleview

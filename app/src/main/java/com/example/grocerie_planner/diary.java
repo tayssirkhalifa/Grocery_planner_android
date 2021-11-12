@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 public class diary extends Fragment {
     RecyclerView recyclerView;
-    com.example.grocerie_planner.Adapter adapter;
+    com.example.grocerie_planner.dairyAdapter adapter;
     ArrayList<Product> items;
 
 
@@ -32,16 +32,15 @@ public class diary extends Fragment {
 
         items = new ArrayList<>();
 
-        items.add(new Product(1,"diary",R.drawable.diary));
-        items.add(new Product(2,"diary",R.drawable.diary));
-        items.add(new Product(3,"diary",R.drawable.diary));
-        items.add(new Product(4," diary",R.drawable.diary));
-        items.add(new Product(5,"diary",R.drawable.diary));
+        items.add(new Product(30,"diary",R.drawable.diary));
+        items.add(new Product(31,"agendas",R.drawable.agendas));
+        items.add(new Product(32,"book",R.drawable.book));
+        items.add(new Product(33," post",R.drawable.post));
 
 
         recyclerView = view.findViewById(R.id.RV);
         recyclerView.setLayoutManager(new LinearLayoutManager(view.getContext()));
-        adapter = new Adapter(items);
+        adapter = new dairyAdapter(items);
         recyclerView.setAdapter(adapter);
 
         return view;

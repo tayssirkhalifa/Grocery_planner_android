@@ -60,8 +60,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="layoutResourceFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -74,29 +74,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/MSI/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_RecyclerView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/MSI/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.-230010130">
-      <recent name="com.example.grocerie_planner" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\res\drawable" />
-      <recent name="C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\res\layout" />
-    </key>
     <key name="android.template.518444398">
       <recent name="com.example.grocerie_planner" />
     </key>
     <key name="android.template.-2037794414">
       <recent name="com.example.grocerie_planner" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\res\font" />
-      <recent name="C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\res\drawable" />
-      <recent name="C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\res\drawable-v24" />
+    <key name="android.template.-561788379">
+      <recent name="com.example.grocerie_planner" />
+    </key>
+    <key name="android.template.-410812396">
+      <recent name="com.example.grocerie_planner" />
     </key>
     <key name="android.template.370369999">
       <recent name="com.example.grocerie_planner" />
@@ -105,6 +101,31 @@
       <recent name="com.example.grocerie_planner" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.grocerie_planner" />
+    </key>
+    <key name="android.template.1590463038">
+      <recent name="com.example.grocerie_planner" />
+    </key>
+    <key name="android.template.-230010130">
+      <recent name="com.example.grocerie_planner" />
+    </key>
+    <key name="android.template.463617429">
+      <recent name="com.example.grocerie_planner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\res\layout" />
+      <recent name="C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\res\drawable" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\res\drawable" />
+      <recent name="C:\Users\MSI\AndroidStudioProjects\Grocerie_planner\app\src\main\res\font" />
+    </key>
+    <key name="android.template.-1541751932">
+      <recent name="com.example.grocerie_planner" />
+    </key>
+    <key name="android.template.-1425343219">
       <recent name="com.example.grocerie_planner" />
     </key>
   </component>

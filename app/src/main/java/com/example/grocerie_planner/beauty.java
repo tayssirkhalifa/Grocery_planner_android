@@ -14,7 +14,7 @@ import java.util.ArrayList;
 public class beauty  extends Fragment {
 
     RecyclerView recyclerView;
-    com.example.grocerie_planner.Adapter adapter;
+    com.example.grocerie_planner.beaytyAdapter adapter;
     ArrayList<Product> items;
 
 
@@ -33,21 +33,17 @@ public class beauty  extends Fragment {
 
         items = new ArrayList<>();
 
-        items.add(new Product(1,"nail Polish",R.drawable.nailpolish));
-        items.add(new Product(2,"nail Polish",R.drawable.nailpolish));
-        items.add(new Product(3,"nail Polish",R.drawable.nailpolish));
-        items.add(new Product(4,"nail Polish",R.drawable.nailpolish));
-        items.add(new Product(5,"nail Polish",R.drawable.nailpolish));
-        items.add(new Product(6,"nail Polish",R.drawable.nailpolish));
-        items.add(new Product(7,"nail Polish",R.drawable.nailpolish));
-        items.add(new Product(8,"nail Polish",R.drawable.nailpolish));
-        items.add(new Product(9,"nail Polish",R.drawable.nailpolish));
-        items.add(new Product(10,"nail Polish",R.drawable.nailpolish));
+        items.add(new Product(20,"Polish",R.drawable.nailpolish));
+        items.add(new Product(21,"cosmetics",R.drawable.cosmetics));
+        items.add(new Product(22,"salon",R.drawable.salon));
+        items.add(new Product(23,"parfum",R.drawable.parfum));
+        items.add(new Product(24,"mirror",R.drawable.mirror));
+
 
 
         recyclerView = view.findViewById(R.id.RV);
         recyclerView.setLayoutManager(new LinearLayoutManager(view.getContext()));
-        adapter = new Adapter(items);
+        adapter = new beaytyAdapter(items);
         recyclerView.setAdapter(adapter);
 
         return view;

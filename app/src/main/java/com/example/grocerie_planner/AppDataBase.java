@@ -14,7 +14,7 @@ public abstract class AppDataBase extends RoomDatabase {
     private static String DATABASE_NAME ="database";
     public static AppDataBase getInstance(Context context ){
         if(instance==null){
-            instance= Room.databaseBuilder(context.getApplicationContext(),AppDataBase.class,DATABASE_NAME).allowMainThreadQueries().build();
+            instance= Room.databaseBuilder(context.getApplicationContext(),AppDataBase.class,DATABASE_NAME).fallbackToDestructiveMigration().allowMainThreadQueries().build();
 
         }
         return instance;

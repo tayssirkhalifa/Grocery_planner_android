@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    compileSdk 31
+    compileSdk 28
 
     defaultConfig {
         applicationId "com.example.grocerie_planner"
-        minSdk 21
-        targetSdk 31
+        minSdk 22
+        targetSdk 28
         versionCode 1
         versionName "1.0"
 
@@ -30,6 +30,7 @@ android {
 dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'com.android.support:appcompat-v7:28.0.0'
     implementation 'com.google.android.material:material:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.0'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
@@ -38,4 +39,9 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     implementation "androidx.room:room-runtime:2.2.0"
     annotationProcessor "androidx.room:room-compiler:2.2.0"
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+    implementation 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    implementation 'io.reactivex.rxjava2:rxjava:2.1.7'
 }
